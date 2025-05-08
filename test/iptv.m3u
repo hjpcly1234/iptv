@@ -1,0 +1,1289 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://60.214.104.110:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+rtsp://60.13.27.115/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+rtsp://115.85.205.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.180.2.93:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://183.94.1.118:8801/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://116.117.107.84:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://121.232.178.75:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://120.192.226.35:8009/hls/501/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://42.48.105.224:9002/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.83.163.43:8888/rtp/239.112.205.59:5140$(陕西西安2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.83.163.40:8888/rtp/239.112.205.59:5140$(陕西西安4)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://218.29.135.6:4000/rtp/225.1.4.73:1102$(河南郑州联通2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://221.218.212.142:8012/rtp/239.3.1.129:8008$(北京1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://113.103.253.30:9999/udp/239.77.0.86:5146$(广东江门)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://113.103.253.30:9999/udp/239.77.0.129:5146$(广东江门)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+https://p2.bdstatic.com/rtmp
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://117.114.153.26:8180/TV00000000000000000099@HHZT
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.214.202.208:4000/udp/239.93.0.184:5140$(四川成都2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://221.15.4.150:8888/rtp/225.1.4.73:1102$(河南信阳联通2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://221.15.7.42:8888/rtp/225.1.4.73:1102$(河南信阳联通3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.112.50.33:8888/rtp/239.3.1.129:8008$(北京5)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://182.32.160.10:9997/udp/239.21.1.120:5002$(山东德州电信)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://144.255.21.21:8123/udp/239.21.1.120:5002$(山东济南电信1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://58.48.199.143:8888/rtp/239.254.96.96:8550$(湖北武汉3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://59.173.132.230:8880/rtp/239.254.96.96:8550$(湖北武汉4)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://221.198.174.113:8888/udp/225.1.1.120:5002$(天津天津市1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://125.38.228.206:8888/udp/225.1.1.120:5002$(天津天津市3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://117.30.215.40:4022/rtp/239.61.3.61:9884$(福建厦门2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://175.18.189.238:9998/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://222.174.239.62:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://111.160.27.70:35793/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://106.46.147.61:10443/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://220.202.110.48:9003/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://101.66.198.245:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://112.6.165.112:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://180.158.130.39:1024/udp/239.45.3.145:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.115.63.147:5555/rtp/239.3.1.129:8008$LR•IPV4『线路2』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://114.254.80.240:2222/rtp/239.3.1.129:8008$LR•IPV4『线路3』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.113.236.69:8012/rtp/239.3.1.129:8008$LR•IPV4『线路4』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http:///udp/239.252.219.200:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http:///udp/239.76.246.151:1234$LR•IPV4『线路6』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http:///udp/239.76.253.151:9000$LR•IPV4『线路7』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.213.130.157:8088/udp/239.93.0.184:5140$LR•IPV4『线路8』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.213.143.201:9999/udp/239.93.0.184:5140$LR•IPV4『线路9』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://27.9.91.24:8003/udp/225.0.4.74:7980$LR•IPV4『线路10』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://27.10.129.243:8005/udp/225.0.4.74:7980$LR•IPV4『线路11』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://27.10.129.243:8004/udp/225.0.4.74:7980$LR•IPV4『线路12』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://60.189.61.82:9999/rtp/233.50.201.118:5140$LR•IPV4『线路13』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://125.109.62.72:9999/rtp/233.50.201.118:5140$LR•IPV4『线路14』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://183.147.175.107:8888/rtp/233.50.201.118:5140$LR•IPV4『线路15』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://59.174.227.133:8880/rtp/239.254.96.96:8550$LR•IPV4『线路16』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://59.174.98.235:8880/rtp/239.254.96.96:8550$LR•IPV4『线路17』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://e1.woc.iiiya.cn:8888/rtp/239.61.3.61:9884$LR•IPV4『线路18』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://e1.woc.iiiya.cn:8888/rtp/239.61.3.60:9878$LR•IPV4『线路19』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://36.47.82.53:8008/rtp/239.112.205.59:5140$LR•IPV4『线路20』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://36.47.82.53:8021/rtp/239.112.205.59:5140$LR•IPV4『线路21』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://36.47.82.53:8020/rtp/239.112.205.59:5140$LR•IPV4『线路22』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://60.27.20.30:5555/udp/225.1.1.120:5002$LR•IPV4『线路23』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://218.67.185.232:8888/udp/225.1.1.120:5002$LR•IPV4『线路24』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://218.68.55.35:8888/udp/225.1.1.120:5002$LR•IPV4『线路25』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.52.47.205:8800/rtp/239.16.20.1:10010$LR•IPV4『线路26』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.52.47.205:8800/rtp/239.16.10.1:2000$LR•IPV4『线路27』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://123.52.47.205:8800/rtp/239.16.10.36:2000$LR•IPV4『线路28』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.196.154.235:2000/rtp/239.16.20.1:10010$LR•IPV4『线路29』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.196.154.235:2000/rtp/239.16.10.1:2000$LR•IPV4『线路30』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.196.154.235:2000/rtp/239.16.10.36:2000$LR•IPV4『线路31』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.8.168.31:8800/rtp/239.16.20.1:10010$LR•IPV4『线路32』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.8.168.31:8800/rtp/239.16.10.1:2000$LR•IPV4『线路33』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://171.8.168.31:8800/rtp/239.16.10.36:2000$LR•IPV4『线路34』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.70.35.119:8083/udp/239.1.1.7:8007$LR•IPV4『线路35』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://1.70.35.119:8085/udp/239.1.1.7:8007$LR•IPV4『线路36』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://223.10.11.180:8082/udp/239.1.1.7:8007$LR•IPV4『线路37』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http:///udp/239.81.0.13:4056$LR•IPV4『线路38』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://121.21.84.3:8888/rtp/239.253.92.83:8012$LR•IPV4『线路39』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://121.29.111.83:8888/rtp/239.253.92.83:8012$LR•IPV4『线路40』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://60.164.128.167:8029/udp/239.255.30.101:8231$LR•IPV4『线路41』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://www.lebaobei.top:6868/udp/239.255.30.101:8231$LR•IPV4『线路42』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://118.183.212.29:6868/udp/239.255.30.101:8231$LR•IPV4『线路43』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png",CCTV-1
+http://61.190.129.195:8686/rtp/238.1.78.166:7200$LR•IPV4『线路44』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+rtsp://60.13.39.18/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://58.243.224.244:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://60.214.104.110:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://113.140.86.162:8009/hls/502/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+rtsp://115.85.205.19/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+rtsp://60.13.27.115/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+rtsp://124.152.124.50/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+rtsp://180.95.143.19/PLTV/88888910/224/3221225568/10000100000000060000000000107348_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://218.58.136.82:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://183.94.1.118:8801/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://121.232.178.75:60001/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://120.192.226.35:8009/hls/502/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://42.48.105.224:9002/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png",CCTV-2
+http://1.83.163.40:8888/rtp/239.112.205.78:5140$(陕西西安4)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://123.52.47.205:8800/rtp/239.16.20.13:10130$LR•IPV4『线路22』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://123.52.47.205:8800/rtp/239.16.10.111:2000$LR•IPV4『线路23』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://1.196.154.235:2000/rtp/239.16.20.13:10130$LR•IPV4『线路24』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://1.196.154.235:2000/rtp/239.16.10.111:2000$LR•IPV4『线路25』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://171.8.168.31:8800/rtp/239.16.20.13:10130$LR•IPV4『线路26』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://171.8.168.31:8800/rtp/239.16.10.111:2000$LR•IPV4『线路27』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://1.70.35.119:8083/udp/239.1.1.20:8020$LR•IPV4『线路28』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://1.70.35.119:8085/udp/239.1.1.20:8020$LR•IPV4『线路29』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://223.10.11.180:8082/udp/239.1.1.20:8020$LR•IPV4『线路30』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http:///udp/239.81.0.206:4056$LR•IPV4『线路31』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://121.21.84.3:8888/rtp/239.253.92.13:8008$LR•IPV4『线路32』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://121.29.111.83:8888/rtp/239.253.92.13:8008$LR•IPV4『线路33』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://60.164.128.167:8029/udp/239.255.29.28:8231$LR•IPV4『线路34』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://www.lebaobei.top:6868/udp/239.255.29.28:8231$LR•IPV4『线路35』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://118.183.212.29:6868/udp/239.255.29.28:8231$LR•IPV4『线路36』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",CCTV-13
+http://61.190.129.195:8686/rtp/238.1.79.35:4392$LR•IPV4『线路37』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.24.39.180:9003/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://218.13.14.6:60050/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://58.243.224.244:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+rtsp://115.85.205.19/PLTV/88888910/224/3221225579/10000100000000060000000000107359_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+rtsp://124.152.124.50/PLTV/88888910/224/3221225579/10000100000000060000000000107359_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+rtsp://221.7.61.147/PLTV/88888910/224/3221225504/10000100000000060000000000107284_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+rtsp://180.95.143.19/PLTV/88888910/224/3221225579/10000100000000060000000000107359_0.smil
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://218.58.136.82:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://183.94.1.118:8801/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://116.117.107.84:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://121.232.178.75:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://180.213.174.225:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://42.48.105.224:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.83.163.43:8888/rtp/239.112.205.91:5140$(陕西西安2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.83.163.40:8888/rtp/239.112.205.91:5140$(陕西西安4)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://218.29.135.6:4000/rtp/225.1.4.80:1109$(河南郑州联通2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://221.218.212.142:8012/rtp/239.3.1.65:8132$(北京1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://113.103.253.30:9999/udp/239.77.1.161:5146$(广东江门)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://113.103.253.30:9999/udp/239.77.1.171:5146$(广东江门)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://27.11.250.143:8003/udp/225.0.4.128:7980
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://171.214.202.208:4000/udp/239.93.1.29:6000$(四川成都2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://221.15.4.150:8888/rtp/225.1.4.80:1109$(河南信阳联通2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://221.15.7.42:8888/rtp/225.1.4.80:1109$(河南信阳联通3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://123.112.50.33:8888/rtp/239.3.1.65:8132$(北京5)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://182.32.160.10:9997/udp/239.21.1.157:5002$(山东德州电信)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://144.255.21.21:8123/udp/239.21.1.157:5002$(山东济南电信1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://58.48.199.143:8888/rtp/239.69.1.107:10280$(湖北武汉3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://59.173.132.230:8880/rtp/239.69.1.107:10280$(湖北武汉4)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://221.198.174.113:8888/udp/225.1.1.144:5002$(天津天津市1)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://125.38.228.206:8888/udp/225.1.1.144:5002$(天津天津市3)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://117.30.215.40:4022/rtp/239.61.2.178:9056$(福建厦门2)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://175.18.189.238:9998/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://106.46.147.61:10443/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://115.48.22.228:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://113.101.119.26:8090/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://101.66.198.245:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://183.215.211.219:9998/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://180.158.130.39:1024/udp/239.45.3.23:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://123.115.63.147:5555/rtp/239.3.1.65:8132$LR•IPV4『线路2』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://114.254.80.240:2222/rtp/239.3.1.65:8132$LR•IPV4『线路3』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://123.113.236.69:8012/rtp/239.3.1.65:8132$LR•IPV4『线路4』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http:///udp/239.252.220.92:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http:///udp/239.76.246.164:1234$LR•IPV4『线路6』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http:///udp/239.76.253.164:9000$LR•IPV4『线路7』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://171.213.130.157:8088/udp/239.93.1.29:6000$LR•IPV4『线路8』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://171.213.143.201:9999/udp/239.93.1.29:6000$LR•IPV4『线路9』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://27.9.91.24:8003/udp/225.0.4.128:7980$LR•IPV4『线路10』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://27.10.129.243:8005/udp/225.0.4.128:7980$LR•IPV4『线路11』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://27.10.129.243:8004/udp/225.0.4.128:7980$LR•IPV4『线路12』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://60.189.61.82:9999/rtp/233.50.201.124:5140$LR•IPV4『线路13』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://125.109.62.72:9999/rtp/233.50.201.124:5140$LR•IPV4『线路14』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://183.147.175.107:8888/rtp/233.50.201.124:5140$LR•IPV4『线路15』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://59.174.227.133:8880/rtp/239.69.1.107:10280$LR•IPV4『线路16』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://59.174.98.235:8880/rtp/239.69.1.107:10280$LR•IPV4『线路17』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.178:9056$LR•IPV4『线路18』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://36.47.82.53:8008/rtp/239.112.205.91:5140$LR•IPV4『线路19』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://36.47.82.53:8021/rtp/239.112.205.91:5140$LR•IPV4『线路20』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://36.47.82.53:8020/rtp/239.112.205.91:5140$LR•IPV4『线路21』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://60.27.20.30:5555/udp/225.1.1.144:5002$LR•IPV4『线路22』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://218.67.185.232:8888/udp/225.1.1.144:5002$LR•IPV4『线路23』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://218.68.55.35:8888/udp/225.1.1.144:5002$LR•IPV4『线路24』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://123.52.47.205:8800/rtp/239.16.10.112:2000$LR•IPV4『线路25』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.196.154.235:2000/rtp/239.16.10.112:2000$LR•IPV4『线路26』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://171.8.168.31:8800/rtp/239.16.10.112:2000$LR•IPV4『线路27』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.70.35.119:8083/udp/239.1.1.21:8021$LR•IPV4『线路28』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://1.70.35.119:8085/udp/239.1.1.21:8021$LR•IPV4『线路29』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://223.10.11.180:8082/udp/239.1.1.21:8021$LR•IPV4『线路30』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http:///udp/239.81.0.120:4056$LR•IPV4『线路31』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://121.21.84.3:8888/rtp/239.253.92.198:6063$LR•IPV4『线路32』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://121.29.111.83:8888/rtp/239.253.92.198:6063$LR•IPV4『线路33』
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",CCTV-14
+http://60.164.128.167:8029/udp/239.255.30.183:8231$LR•IPV4『线路34』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://182.32.160.10:9997/udp/239.21.1.163:5002$(山东德州电信)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://144.255.21.21:8123/udp/239.21.1.163:5002$(山东济南电信1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://58.48.199.143:8888/rtp/239.254.96.115:8664$(湖北武汉3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://59.173.132.230:8880/rtp/239.254.96.115:8664$(湖北武汉4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://221.198.174.113:8888/udp/225.1.1.147:5002$(天津天津市1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://125.38.228.206:8888/udp/225.1.1.147:5002$(天津天津市3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://117.30.215.40:4022/rtp/239.61.2.120:8714$(福建厦门2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265023/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265023&livemode=1&stbId=3
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://175.18.189.238:9998/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://222.174.239.62:352/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://111.160.27.70:35793/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://106.46.147.61:10443/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://php.jdshipin.com:8880/cqyx.php?id=HUBEISD
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://180.158.130.39:1024/udp/239.45.3.239:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://123.115.63.147:5555/rtp/239.3.1.138:8044$LR•IPV4『线路2』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://114.254.80.240:2222/rtp/239.3.1.138:8044$LR•IPV4『线路3』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://123.113.236.69:8012/rtp/239.3.1.138:8044$LR•IPV4『线路4』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.252.219.208:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.76.246.193:1234$LR•IPV4『线路6』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.76.253.193:9000$LR•IPV4『线路7』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.77.0.56:5146$LR•IPV4『线路8』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.77.1.44:5146$LR•IPV4『线路9』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.77.1.93:5146$LR•IPV4『线路10』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.77.1.174:5146$LR•IPV4『线路11』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.77.0.95:5146$LR•IPV4『线路12』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://171.213.130.157:8088/udp/239.93.0.250:5140$LR•IPV4『线路13』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://171.213.143.201:9999/udp/239.93.0.250:5140$LR•IPV4『线路14』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://60.189.61.82:9999/rtp/233.50.201.114:5140$LR•IPV4『线路15』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://125.109.62.72:9999/rtp/233.50.201.114:5140$LR•IPV4『线路16』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://183.147.175.107:8888/rtp/233.50.201.114:5140$LR•IPV4『线路17』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://59.174.227.133:8880/rtp/239.254.96.115:8664$LR•IPV4『线路18』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://59.174.98.235:8880/rtp/239.254.96.115:8664$LR•IPV4『线路19』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.120:8714$LR•IPV4『线路20』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://60.27.20.30:5555/udp/225.1.1.147:5002$LR•IPV4『线路21』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://218.67.185.232:8888/udp/225.1.1.147:5002$LR•IPV4『线路22』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://218.68.55.35:8888/udp/225.1.1.147:5002$LR•IPV4『线路23』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://123.52.47.205:8800/rtp/239.16.20.87:10870$LR•IPV4『线路24』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://123.52.47.205:8800/rtp/239.16.10.21:2000$LR•IPV4『线路25』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://1.196.154.235:2000/rtp/239.16.20.87:10870$LR•IPV4『线路26』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://1.196.154.235:2000/rtp/239.16.10.21:2000$LR•IPV4『线路27』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://171.8.168.31:8800/rtp/239.16.20.87:10870$LR•IPV4『线路28』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://171.8.168.31:8800/rtp/239.16.10.21:2000$LR•IPV4『线路29』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://1.70.35.119:8083/udp/239.1.1.32:8032$LR•IPV4『线路30』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://1.70.35.119:8085/udp/239.1.1.32:8032$LR•IPV4『线路31』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://223.10.11.180:8082/udp/239.1.1.32:8032$LR•IPV4『线路32』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http:///udp/239.81.0.112:4056$LR•IPV4『线路33』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://121.21.84.3:8888/rtp/239.253.92.210:6567$LR•IPV4『线路34』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://121.29.111.83:8888/rtp/239.253.92.210:6567$LR•IPV4『线路35』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://60.164.128.167:8029/udp/239.255.30.138:8231$LR•IPV4『线路36』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://www.lebaobei.top:6868/udp/239.255.30.138:8231$LR•IPV4『线路37』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png",湖北卫视
+http://118.183.212.29:6868/udp/239.255.30.138:8231$LR•IPV4『线路38』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://116.176.26.18/PLTV/88888910/224/3221225549/10000100000000060000000000107329_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://60.13.39.18/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://116.176.26.19/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://218.13.14.6:60050/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://58.243.224.244:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://60.214.104.110:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://180.95.143.19/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://60.13.39.19/PLTV/88888910/224/3221225549/10000100000000060000000000107329_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://60.13.23.179/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://221.7.61.147/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://124.152.124.50/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://115.85.205.19/PLTV/88888910/224/3221225549/10000100000000060000000000107329_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://115.85.232.19/PLTV/88888910/224/3221225549/10000100000000060000000000107329_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+rtsp://60.13.27.115/PLTV/88888910/224/3221225549/10000100000000060000000000107329_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://182.37.169.94:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://218.58.136.82:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://116.117.107.84:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://120.192.226.35:8009/hls/38/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://180.213.174.225:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://1.83.163.43:8888/rtp/239.112.205.68:5140$(陕西西安2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://1.83.163.40:8888/rtp/239.112.205.68:5140$(陕西西安4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://218.29.135.6:4000/rtp/225.1.4.91:1120$(河南郑州联通2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://221.218.212.142:8012/rtp/239.3.1.133:8016$(北京1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://113.103.253.30:9999/udp/239.77.1.6:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://113.103.253.30:9999/udp/239.77.0.124:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://180.158.164.233:8888/udp/239.45.3.232:5140
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://36.40.237.20:9999/tsfile/live/0131_3.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://171.214.202.208:4000/udp/239.93.0.183:5140$(四川成都2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://221.15.4.150:8888/rtp/225.1.4.91:1120$(河南信阳联通2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://221.15.7.42:8888/rtp/225.1.4.91:1120$(河南信阳联通3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://123.112.50.33:8888/rtp/239.3.1.133:8016$(北京5)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://182.32.160.10:9997/udp/239.21.1.91:5002$(山东德州电信)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://144.255.21.21:8123/udp/239.21.1.91:5002$(山东济南电信1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://58.48.199.143:8888/rtp/239.254.96.138:8902$(湖北武汉3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://59.173.132.230:8880/rtp/239.254.96.138:8902$(湖北武汉4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://221.198.174.113:8888/udp/225.1.1.115:5002$(天津天津市1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://125.38.228.206:8888/udp/225.1.1.115:5002$(天津天津市3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://117.30.215.40:4022/rtp/239.61.2.34:8198$(福建厦门2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://175.18.189.238:9998/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://222.174.239.62:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://106.46.147.61:10443/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://182.32.159.129:9933/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://101.66.198.245:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://112.6.165.112:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://php.jdshipin.com:8880/cqyx.php?id=HEILONGJIANGHD
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://183.215.211.219:9998/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://180.158.130.39:1024/udp/239.45.3.232:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://123.115.63.147:5555/rtp/239.3.1.133:8016$LR•IPV4『线路2』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://114.254.80.240:2222/rtp/239.3.1.133:8016$LR•IPV4『线路3』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://123.113.236.69:8012/rtp/239.3.1.133:8016$LR•IPV4『线路4』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.252.219.211:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.76.246.200:1234$LR•IPV4『线路6』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.76.253.200:9000$LR•IPV4『线路7』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.77.0.58:5146$LR•IPV4『线路8』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.77.1.71:5146$LR•IPV4『线路9』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.77.1.6:5146$LR•IPV4『线路10』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.77.1.179:5146$LR•IPV4『线路11』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http:///udp/239.77.0.93:5146$LR•IPV4『线路12』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://171.213.130.157:8088/udp/239.93.0.183:5140$LR•IPV4『线路13』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://171.213.143.201:9999/udp/239.93.0.183:5140$LR•IPV4『线路14』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://27.9.91.24:8003/udp/225.0.4.201:7980重庆卫视,http://27.10.129.243:8005/udp/225.0.4.187:7980$LR•IPV4『线路15』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://27.10.129.243:8005/udp/225.0.4.201:7980重庆卫视,http://27.10.129.243:8004/udp/225.0.4.187:7980$LR•IPV4『线路16』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://60.189.61.82:9999/rtp/233.50.201.115:5140$LR•IPV4『线路17』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://125.109.62.72:9999/rtp/233.50.201.115:5140$LR•IPV4『线路18』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://183.147.175.107:8888/rtp/233.50.201.115:5140$LR•IPV4『线路19』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://59.174.227.133:8880/rtp/239.254.96.138:8902$LR•IPV4『线路20』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://59.174.98.235:8880/rtp/239.254.96.138:8902$LR•IPV4『线路21』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.34:8198$LR•IPV4『线路22』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://60.27.20.30:5555/udp/225.1.1.115:5002$LR•IPV4『线路23』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://218.67.185.232:8888/udp/225.1.1.115:5002$LR•IPV4『线路24』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://218.68.55.35:8888/udp/225.1.1.115:5002$LR•IPV4『线路25』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://123.52.47.205:8800/rtp/239.16.20.99:10990$LR•IPV4『线路26』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://123.52.47.205:8800/rtp/239.16.10.105:2000$LR•IPV4『线路27』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png",黑龙江卫视
+http://1.196.154.235:2000/rtp/239.16.20.99:10990$LR•IPV4『线路28』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://113.103.253.30:9999/udp/239.77.1.219:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://113.103.253.30:9999/udp/239.77.0.149:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://117.114.153.18:8180/TV00000000000000000019@HHZT
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://171.214.202.208:4000/udp/239.93.0.134:5140$(四川成都2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://221.15.4.150:8888/rtp/225.1.4.139:1305$(河南信阳联通2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://221.15.7.42:8888/rtp/225.1.4.139:1305$(河南信阳联通3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://123.112.50.33:8888/rtp/239.3.1.123:8164$(北京5)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://182.32.160.10:9997/udp/239.21.1.167:5002$(山东德州电信)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://144.255.21.21:8123/udp/239.21.1.167:5002$(山东济南电信1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://58.48.199.143:8888/rtp/239.69.1.126:10394$(湖北武汉3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://59.173.132.230:8880/rtp/239.69.1.126:10394$(湖北武汉4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://221.198.174.113:8888/udp/225.1.2.29:5002$(天津天津市1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://125.38.228.206:8888/udp/225.1.2.29:5002$(天津天津市3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://117.30.215.40:4022/rtp/239.61.2.182:9080$(福建厦门2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=3
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://175.18.189.238:9998/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://222.174.239.62:352/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://101.66.198.245:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://112.6.165.112:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://php.jdshipin.com:8880/cqyx.php?id=JIANGXIHD
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://180.158.130.39:1024/udp/239.45.1.122:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://123.115.63.147:5555/rtp/239.3.1.123:8164$LR•IPV4『线路2』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://114.254.80.240:2222/rtp/239.3.1.123:8164$LR•IPV4『线路3』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://123.113.236.69:8012/rtp/239.3.1.123:8164$LR•IPV4『线路4』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.252.220.63:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$LR•IPV4『线路6』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://live.nctv.top/6688/jxtv1.php?id=jxws$LR•IPV4『线路7』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://php.jdshipin.com:8880/jxtv2.php?id=1$LR•IPV4『线路8』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路9』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+rtsp://115.153.233.154/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路10』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+rtsp://115.153.212.72/PLTV/88888888/224/3221226656/46275837.smil$LR•IPV4『线路11』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.76.245.225:1234$LR•IPV4『线路12』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.77.0.54:5146$LR•IPV4『线路13』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.77.1.73:5146$LR•IPV4『线路14』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.77.1.219:5146$LR•IPV4『线路15』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.77.0.149:5146$LR•IPV4『线路16』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://171.213.130.157:8088/udp/239.93.0.134:5140$LR•IPV4『线路17』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://171.213.143.201:9999/udp/239.93.0.134:5140$LR•IPV4『线路18』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://27.9.91.24:8003/udp/225.0.4.203:7980$LR•IPV4『线路19』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://27.10.129.243:8005/udp/225.0.4.203:7980$LR•IPV4『线路20』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://27.10.129.243:8004/udp/225.0.4.203:7980$LR•IPV4『线路21』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://60.189.61.82:9999/rtp/233.50.201.145:5140$LR•IPV4『线路22』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://125.109.62.72:9999/rtp/233.50.201.145:5140$LR•IPV4『线路23』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://183.147.175.107:8888/rtp/233.50.201.145:5140$LR•IPV4『线路24』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://59.174.227.133:8880/rtp/239.69.1.126:10394$LR•IPV4『线路25』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://59.174.98.235:8880/rtp/239.69.1.126:10394$LR•IPV4『线路26』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.182:9080$LR•IPV4『线路27』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://60.27.20.30:5555/udp/225.1.2.29:5002$LR•IPV4『线路28』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://218.67.185.232:8888/udp/225.1.2.29:5002$LR•IPV4『线路29』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://218.68.55.35:8888/udp/225.1.2.29:5002$LR•IPV4『线路30』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://123.52.47.205:8800/rtp/239.16.20.89:10890$LR•IPV4『线路31』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://123.52.47.205:8800/rtp/239.16.10.23:2000$LR•IPV4『线路32』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://1.196.154.235:2000/rtp/239.16.20.89:10890$LR•IPV4『线路33』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://1.196.154.235:2000/rtp/239.16.10.23:2000$LR•IPV4『线路34』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://171.8.168.31:8800/rtp/239.16.20.89:10890$LR•IPV4『线路35』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://171.8.168.31:8800/rtp/239.16.10.23:2000$LR•IPV4『线路36』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://1.70.35.119:8083/udp/239.1.1.52:8052$LR•IPV4『线路37』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://1.70.35.119:8085/udp/239.1.1.52:8052$LR•IPV4『线路38』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://223.10.11.180:8082/udp/239.1.1.52:8052$LR•IPV4『线路39』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http:///udp/239.81.0.204:4056$LR•IPV4『线路40』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://121.21.84.3:8888/rtp/239.253.92.19:6145$LR•IPV4『线路41』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://121.29.111.83:8888/rtp/239.253.92.19:6145$LR•IPV4『线路42』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://60.164.128.167:8029/udp/239.255.30.71:8231$LR•IPV4『线路43』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://www.lebaobei.top:6868/udp/239.255.30.71:8231$LR•IPV4『线路44』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png",江西卫视
+http://118.183.212.29:6868/udp/239.255.30.71:8231$LR•IPV4『线路45』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://116.176.26.18/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://116.176.26.19/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://60.13.39.18/PLTV/88888910/224/3221225547/10000100000000060000000000107327_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://218.13.14.6:60050/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://58.243.224.244:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://60.214.104.110:352/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://180.95.143.19/PLTV/88888910/224/3221225547/10000100000000060000000000107327_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://124.152.124.50/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://115.85.205.19/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://60.13.27.115/PLTV/88888910/224/3221225525/10000100000000060000000000107305_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://115.85.232.19/PLTV/88888910/224/3221225547/10000100000000060000000000107327_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://60.13.23.179/PLTV/88888910/224/3221225547/10000100000000060000000000107327_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+rtsp://221.7.61.147/PLTV/88888910/224/3221225547/10000100000000060000000000107327_0.smil
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://1.180.2.93:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://218.58.136.82:352/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://183.94.1.118:8801/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://116.117.107.84:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://183.3.134.56:9901/tsfile/live/0121_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://120.192.226.35:8009/hls/54/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://180.213.174.225:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://42.48.105.224:9002/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://1.83.163.43:8888/rtp/239.112.205.73:5140$(陕西西安2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://1.83.163.40:8888/rtp/239.112.205.73:5140$(陕西西安4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://218.29.135.6:4000/rtp/225.1.4.167:1208$(河南郑州联通2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://221.218.212.142:8012/rtp/239.3.1.210:8056$(北京1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://113.103.253.30:9999/udp/239.77.1.103:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://113.103.253.30:9999/udp/239.77.0.161:5146$(广东江门)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://36.40.237.20:9999/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://171.214.202.208:4000/udp/239.93.1.108:5140$(四川成都2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://221.15.4.150:8888/rtp/225.1.4.167:1208$(河南信阳联通2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://221.15.7.42:8888/rtp/225.1.4.167:1208$(河南信阳联通3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://123.112.50.33:8888/rtp/239.3.1.210:8056$(北京5)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://182.32.160.10:9997/udp/239.21.1.164:5002$(山东德州电信)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://144.255.21.21:8123/udp/239.21.1.164:5002$(山东济南电信1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://58.48.199.143:8888/rtp/239.69.1.71:10066$(湖北武汉3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://59.173.132.230:8880/rtp/239.69.1.71:10066$(湖北武汉4)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://221.198.174.113:8888/udp/225.1.1.154:5002$(天津天津市1)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://125.38.228.206:8888/udp/225.1.1.154:5002$(天津天津市3)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://117.30.215.40:4022/rtp/239.61.2.181:9074$(福建厦门2)
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265022/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://175.18.189.238:9998/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://222.174.239.62:352/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://182.32.159.129:9933/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://115.48.22.228:9901/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://101.66.198.245:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://z.b.bkpcp.top/m.php?id=lnws
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://php.jdshipin.com:8880/cqyx.php?id=LIAONINGHD
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://180.158.130.39:1024/udp/239.45.1.123:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://123.115.63.147:5555/rtp/239.3.1.210:8056$LR•IPV4『线路2』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://114.254.80.240:2222/rtp/239.3.1.210:8056$LR•IPV4『线路3』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://123.113.236.69:8012/rtp/239.3.1.210:8056$LR•IPV4『线路4』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.252.220.62:5140$LR•IPV4『线路5』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.76.245.197:1234$LR•IPV4『线路6』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.76.252.197:9000$LR•IPV4『线路7』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.77.0.57:5146$LR•IPV4『线路8』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.77.1.62:5146$LR•IPV4『线路9』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.77.1.103:5146$LR•IPV4『线路10』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http:///udp/239.77.0.123:5146$LR•IPV4『线路11』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://171.213.130.157:8088/udp/239.93.1.108:5140$LR•IPV4『线路12』
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png",辽宁卫视
+http://171.213.143.201:9999/udp/239.93.1.108:5140$LR•IPV4『线路13』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png",上海东方影视
+http://feiyang.ak47s.top:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png",上海东方影视
+https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png",上海东方影视
+http://139.196.214.238/rtp/239.45.3.237:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png",上海东方影视
+http://139.196.151.191:2051/rtp/239.45.3.237:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海东方影视.png",上海东方影视
+http://mvfn.zhch1968.com:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png",上海东方影视
+https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-6.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png",上海东方影视
+http://180.158.130.39:1024/udp/239.45.3.237:5140$LR•IPV4
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png",上海都市
+https://stream1.freetv.fun/shang-hai-du-shi-2.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png",上海都市
+http://180.158.130.39:1024/udp/239.45.3.236:5140$LR•IPV4
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://z.b.bkpcp.top/m.php?id=fztd
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://home.wwang.pw:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=fztd
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://jf.jxx2023.work:40446/tsfile/live/1047_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://mvfn.zhch1968.com:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://36.105.100.208:35455/itv/5000000002000019634.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://120.55.49.231:3095/rtp/233.50.201.191:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://139.196.151.191:2051/rtp/239.45.1.46:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://180.158.130.39:1024/udp/239.45.1.46:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http:///udp/239.76.246.138:1234$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http:///udp/239.76.253.138:9000$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.75:8444$LR•IPV4『线路4』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://1.70.35.119:8083/udp/239.1.1.79:8079$LR•IPV4『线路5』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://1.70.35.119:8085/udp/239.1.1.79:8079$LR•IPV4『线路6』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://223.10.11.180:8082/udp/239.1.1.79:8079$LR•IPV4『线路7』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://121.21.84.3:8888/rtp/239.253.93.241:6419$LR•IPV4『线路8』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://121.29.111.83:8888/rtp/239.253.93.241:6419$LR•IPV4『线路9』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://49.77.104.103:8554/udp/239.49.1.174:6000$LR•IPV4『线路10』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://114.226.231.226:8888/udp/239.49.1.174:6000$LR•IPV4『线路11』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",上海法治天地
+http://180.108.135.48:8888/udp/239.49.1.174:6000$LR•IPV4『线路12』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://home.wwang.pw:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://lt.hxtre.com:35455/itv/1000000002000000172.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://139.129.231.228:50060/rtp/239.21.1.51:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://139.196.151.191/rtp/239.45.1.55:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://36.105.100.208:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://106.46.147.61:10443/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://115.48.22.228:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://60.12.183.46:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://139.196.151.191:2051/rtp/239.45.1.55:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://180.158.130.39:1024/udp/239.45.1.55:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://60.189.61.82:9999/rtp/233.50.201.74:5140$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://125.109.62.72:9999/rtp/233.50.201.74:5140$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://183.147.175.107:8888/rtp/233.50.201.74:5140$LR•IPV4『线路4』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.70:8414$LR•IPV4『线路5』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://60.27.20.30:5555/udp/225.1.1.62:5002$LR•IPV4『线路6』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://218.67.185.232:8888/udp/225.1.1.62:5002$LR•IPV4『线路7』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://218.68.55.35:8888/udp/225.1.1.62:5002$LR•IPV4『线路8』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://123.52.47.205:8800/rtp/239.16.10.117:2000$LR•IPV4『线路9』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://1.196.154.235:2000/rtp/239.16.10.117:2000$LR•IPV4『线路10』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://171.8.168.31:8800/rtp/239.16.10.117:2000$LR•IPV4『线路11』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://1.70.35.119:8083/udp/239.1.1.64:8064$LR•IPV4『线路12』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://1.70.35.119:8085/udp/239.1.1.64:8064$LR•IPV4『线路13』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://223.10.11.180:8082/udp/239.1.1.64:8064$LR•IPV4『线路14』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://60.164.128.167:8029/udp/239.255.29.37:8231$LR•IPV4『线路15』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://www.lebaobei.top:6868/udp/239.255.29.37:8231$LR•IPV4『线路16』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png",上海哈哈炫动
+http://118.183.212.29:6868/udp/239.255.29.37:8231$LR•IPV4『线路17』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://home.wwang.pw:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://139.129.231.228/rtp/239.21.1.171:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://1.70.34.84:8082/udp/239.1.1.45:8045
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实.png",上海纪实人文50FPS
+https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-5.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://139.129.231.228:50060/rtp/239.21.1.171:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://139.129.231.228:50060/rtp/239.21.1.195:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://36.105.100.208:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png",上海纪实人文50FPS
+http://139.196.151.191:2051/rtp/239.45.3.212:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://180.158.130.39:1024/udp/239.45.3.212:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://171.213.130.157:8088/udp/239.93.1.154:5140$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://171.213.143.201:9999/udp/239.93.1.154:5140$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.165:8978$LR•IPV4『线路4』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://60.27.20.30:5555/udp/225.1.2.25:5002$LR•IPV4『线路5』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://218.67.185.232:8888/udp/225.1.2.25:5002$LR•IPV4『线路6』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://218.68.55.35:8888/udp/225.1.2.25:5002$LR•IPV4『线路7』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://123.52.47.205:8800/rtp/239.16.10.190:2000$LR•IPV4『线路8』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://1.196.154.235:2000/rtp/239.16.10.190:2000$LR•IPV4『线路9』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://171.8.168.31:8800/rtp/239.16.10.190:2000$LR•IPV4『线路10』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://1.70.35.119:8083/udp/239.1.1.45:8045$LR•IPV4『线路11』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://1.70.35.119:8085/udp/239.1.1.45:8045$LR•IPV4『线路12』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://223.10.11.180:8082/udp/239.1.1.45:8045$LR•IPV4『线路13』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://121.21.84.3:8888/rtp/239.253.92.99:6013$LR•IPV4『线路14』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纪实人文.png",上海纪实人文50FPS
+http://121.29.111.83:8888/rtp/239.253.92.99:6013$LR•IPV4『线路15』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png",上海五星体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png",上海五星体育
+http://139.196.151.191:2051/rtp/239.45.3.210:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png",上海五星体育
+http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png",上海五星体育
+http://180.158.130.39:1024/udp/239.45.3.210:5140$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png",上海五星体育
+http://60.164.128.167:8029/udp/239.255.29.45:8231$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png",上海五星体育
+http://www.lebaobei.top:6868/udp/239.255.29.45:8231$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png",上海五星体育
+http://118.183.212.29:6868/udp/239.255.29.45:8231$LR•IPV4『线路4』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+https://www.freetv.top/migu/651632657.m3u8?migutoken=b4a3e55048f55ec1c8fc5b509fbdf32f2dc5d255f5f218e79e84ca9a87fb9f2239927cb11b448f18285b50b81b4cd50a1354e9be5a3283375e85372798c3f3eb3ad60adf45eb5615f68eb4825f
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+https://www.freetv.top/migu/651632657.m3u8?migutoken=5ae42e8fda034ab7bf5171dafa0043e70cd12bcd716940c4572fde52ea92b0785f16f1bdbce4c83f5e075b250fe95668f19f8527dda57c27db24f95d412614d99c86a3a2d9341d88b5224b7068
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://139.129.231.228/rtp/239.21.1.193:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://139.129.231.228:50060/rtp/239.21.1.193:5002
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://139.196.214.238/rtp/239.45.3.209:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://139.196.151.191:2051/rtp/239.45.3.209:5140
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",上海新闻综合
+http://180.158.130.39:1024/udp/239.45.3.209:5140$LR•IPV4
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png",上海
+http://101.81.119.90:8888/udp/239.45.1.127:5140
+#EXTINF:-1 group-title="地方频道",上海
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 group-title="地方频道",上海
+https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://epg.112114.xyz/logo/战上海.png",上海
+http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海教育.png",上海
+http://180.158.130.39:1024/udp/239.45.0.13:5140$LR•IPV4
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/上海滩.png",上海
+http://live.nctv.top/6688/yy.php?id=1382745184
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://live.fanmingming.com/tv/上海滩.png",上海
+http://live.nctv.top/6688/yy.php?id=1382745184$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南爱晚.png",湖南爱晚
+http://www.peanutbar.cn:8099/tsfile/live/1003_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南爱晚.png",湖南爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http://www.peanutbar.cn:8099/tsfile/live/1002_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-3.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http:///udp/239.76.246.104:1234$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http:///udp/239.76.253.104:9000$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http:///udp/239.76.253.224:9000$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南都市.png",湖南都市
+http:///udp/239.76.252.117:9000$LR•IPV4『线路4』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+http://www.peanutbar.cn:8099/tsfile/live/1007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+http:///udp/239.76.246.102:1234$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+http:///udp/239.76.253.102:9000$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+http:///udp/239.76.252.124:9000$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http://www.peanutbar.cn:8099/tsfile/live/1006_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http://jf.jxx2023.work:40446/tsfile/live/1012_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http:///udp/239.76.246.103:1234$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http:///udp/239.76.253.103:9000$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南经视.png",湖南经视
+http:///udp/239.76.252.116:9000$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http://www.peanutbar.cn:8099/tsfile/live/1000_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http://jf.jxx2023.work:40446/tsfile/live/1011_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+https://stream1.freetv.fun/hu-nan-yu-le-gao-qing-3.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http:///udp/239.76.246.105:1234$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http:///udp/239.76.253.105:9000$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南娱乐.png",湖南娱乐
+http:///udp/239.76.252.121:9000$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://183.3.134.56:9901/tsfile/live/0019_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://iptv77.iptv66.eu.org:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://huashetou.fun:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://www.xzbn.site:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://36.105.100.208:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-2.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://mzitv.cn:32/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://120.77.205.62:8087/rtp/239.77.0.1:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://jk.ixm.su:35455/itv/1000000004000011655.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://123.254.110.101:5000/2000000003000000033/hnbblive/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http:///udp/239.77.0.1:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http:///udp/239.77.0.3:5146$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png",广东珠江
+http:///udp/239.77.1.94:5146$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http://php.jdshipin.com:8880/chudian.php?id=gdty
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http://mzitv.cn:32/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http://120.77.205.62:8087/rtp/239.77.0.112:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http:///udp/239.77.0.112:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http:///udp/239.77.0.6:5146$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png",广东体育
+http:///udp/239.77.1.97:5146$LR•IPV4『线路3』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http://120.198.95.220:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http://183.3.134.56:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http://mzitv.cn:32/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http:///udp/239.77.0.173:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png",广东新闻
+http:///udp/239.77.0.4:5146$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茂名公共.png",茂名公共
+http://120.77.205.62:8087/rtp/239.77.0.207:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茂名公共.png",茂名公共
+http://120.77.205.62:8087/rtp/239.77.0.205:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茂名公共.png",茂名公共
+http://www.zz49.top:4022/udp/239.77.0.205:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+http://120.77.205.62:8087/rtp/239.77.0.225:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+http://php.jdshipin.com:8880/chudian.php?id=gdms
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+https://stream1.freetv.fun/yan-dong-min-sheng-12.ctv
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+http://mzitv.cn:32/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+http:///udp/239.77.0.225:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png",广东民生
+http:///udp/239.77.0.5:5146$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://3501776.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dwqws
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://120.77.205.62:8087/rtp/239.77.0.215:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://z.b.bkpcp.top/m.php?id=dwqws
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://b.zgjok.com:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://home.wwang.pw:35455/itv/2000000003000000045.m3u8?cdn=hnbblive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://dsk.cc/php/xxtv.php?id=dwqws
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=dwqws
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://36.105.100.208:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://221.218.212.142:8012/rtp/239.3.1.161:8001$(北京1)
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://113.103.253.30:9999/udp/239.77.0.215:5146$(广东江门)
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://113.109.250.116:9999/udp/239.77.0.9:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://123.112.50.33:8888/rtp/239.3.1.161:8001$(北京5)
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://117.30.215.40:4022/rtp/239.61.3.5:9548$(福建厦门2)
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+http://mzitv.cn:32/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png",广州综合
+http://120.77.205.62:8087/rtp/239.253.43.71:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png",广州综合
+http://120.77.205.62:8087/rtp/239.253.43.66:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png",广州综合
+http:///udp/239.253.43.66:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png",广州综合
+http:///udp/239.253.43.71:5146$LR•IPV4『线路2』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州影视.png",广州影视
+http://120.77.205.62:8087/rtp/239.253.43.68:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州影视.png",广州影视
+http://120.77.205.62:8087/rtp/239.253.43.73:5146
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州影视.png",广州影视
+http:///udp/239.253.43.68:5146$LR•IPV4『线路1』
+#EXTINF:-1 group-title="地方频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州影视.png",广州影视
+http:///udp/239.253.43.73:5146$LR•IPV4『线路2』
